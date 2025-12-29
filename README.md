@@ -23,3 +23,7 @@ An automated Python tool designed to extract deep-level product data from the 'B
 
 Header Optimization:** Dark-themed headers with 'Freeze Panes' enabled for seamless navigation of 200+ rows. 
  <img width="1828" height="658" alt="image" src="https://github.com/user-attachments/assets/4b598802-cbe9-4e8b-b812-f4ffb9368b1c" />
+ <img width="1861" height="693" alt="image" src="https://github.com/user-attachments/assets/82923c0d-2ac2-4caa-beb0-9f77604e6725" />
+ <img width="1866" height="675" alt="image" src="https://github.com/user-attachments/assets/84b7bb37-dd8a-4dfb-870d-b4f78494b75b" />
+
+
