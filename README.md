@@ -21,7 +21,5 @@ An automated Python tool designed to extract deep-level product data from the 'B
 - 100-character Description Summary
 - Reference URL
 
-Header Optimization:** Dark-themed headers with 'Freeze Panes' enabled for seamless navigation of 200+ rows.
-![alt text](image-3.png)  
- ![alt text](image-2.png)
- ![alt text](image-1.png)  
+Header Optimization:** Dark-themed headers with 'Freeze Panes' enabled for seamless navigation of 200+ rows. 
+ <img width="1828" height="658" alt="image" src="https://github.com/user-attachments/assets/4b598802-cbe9-4e8b-b812-f4ffb9368b1c" />
